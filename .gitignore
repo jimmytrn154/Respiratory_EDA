@@ -1,0 +1,21 @@
+# ——— Virtual environments ———
+venv/                   
+test/            
+
+# ——— Python bytecode and caches ———
+__pycache__/  
+*.py[cod]  
+
+# ——— IDE and editor settings ———
+.vscode/       
+.idea/          
+*.sublime-project  
+*.sublime-workspace  
+
+# ——— OS-generated files ———
+Thumbs.db       # Windows  
+
+# ——— Dataset ———
+RespiratoryDatabase@TR/
+public_dataset/
+ICBHI_final_database/
