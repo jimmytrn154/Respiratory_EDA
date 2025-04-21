@@ -19,3 +19,7 @@ Thumbs.db       # Windows
 RespiratoryDatabase@TR/
 public_dataset/
 ICBHI_final_database/
+
+# ——— Labeling ———
+~$COPD.xlsx
+UK Covid
