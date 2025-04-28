@@ -18,6 +18,7 @@ Thumbs.db       # Windows
 # ——— Dataset ———
 RespiratoryDatabase@TR/
 public_dataset/
+public_dataset_wav/
 ICBHI_final_database/
 
 # ——— Labeling ———
